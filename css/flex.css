@@ -1,0 +1,18 @@
+.contener{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-wrap: wrap;
+    
+}
+
+.midele{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 5px;
+    background-color: aqua;
+
+}
